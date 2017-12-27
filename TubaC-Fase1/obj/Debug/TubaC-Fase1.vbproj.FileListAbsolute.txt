@@ -1,0 +1,17 @@
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\bin\Debug\TubaC-Fase1.exe.config
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\bin\Debug\TubaC-Fase1.exe
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\bin\Debug\TubaC-Fase1.pdb
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\bin\Debug\TubaC-Fase1.xml
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.vbprojResolveAssemblyReference.cache
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\Interop.SAPbouiCOM.dll
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.vbproj.ResolveComReference.cache
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.cParametros.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.FrmPrincipal.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.Login.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.Resources.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.Parametros.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.vbproj.GenerateResource.Cache
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.exe
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.xml
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.pdb
