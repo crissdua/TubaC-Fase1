@@ -94,6 +94,7 @@ Partial Class cParametros
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "cParametros"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Manager"
         Me.ResumeLayout(False)
         Me.PerformLayout()

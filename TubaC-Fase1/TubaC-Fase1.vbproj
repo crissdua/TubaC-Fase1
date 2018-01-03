@@ -72,6 +72,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Batchs.Designer.vb">
+      <DependentUpon>Batchs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Batchs.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Conexion.vb" />
     <Compile Include="cParametros.Designer.vb">
       <DependentUpon>cParametros.vb</DependentUpon>
@@ -83,6 +89,12 @@
       <DependentUpon>FrmPrincipal.vb</DependentUpon>
     </Compile>
     <Compile Include="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemsBox.Designer.vb">
+      <DependentUpon>ItemsBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemsBox.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Login.vb">
@@ -115,11 +127,17 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Batchs.resx">
+      <DependentUpon>Batchs.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="cParametros.resx">
       <DependentUpon>cParametros.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemsBox.resx">
+      <DependentUpon>ItemsBox.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.vb</DependentUpon>

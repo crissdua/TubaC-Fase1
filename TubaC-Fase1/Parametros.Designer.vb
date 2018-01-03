@@ -122,6 +122,7 @@ Partial Class Parametros
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Name = "Parametros"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Parametros"
         Me.ResumeLayout(False)
         Me.PerformLayout()

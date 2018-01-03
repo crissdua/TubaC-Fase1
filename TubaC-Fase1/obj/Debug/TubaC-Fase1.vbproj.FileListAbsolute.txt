@@ -15,3 +15,5 @@ c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1
 c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.exe
 c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.xml
 c:\users\cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC-Fase1.pdb
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.ItemsBox.resources
+C:\Users\Cristhiam\documents\visual studio 2015\Projects\TubaC-Fase1\TubaC-Fase1\obj\Debug\TubaC_Fase1.Batchs.resources

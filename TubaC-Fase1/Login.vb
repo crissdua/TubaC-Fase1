@@ -20,11 +20,18 @@ Public Class Login
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        con.MakeConnectionSAP(TextBox1.Text, TextBox2.Text)
-        'MessageBox.Show(con.Connected.ToString)
-        Me.Hide()
-        Dim frm As New FrmPrincipal
-        frm.Show()
+        If TextBox1.Text = String.Empty Or TextBox2.Text = String.Empty Then
+            MessageBox.Show("Verifique Nombre y contraseña")
+        Else
+            con.MakeConnectionSAP(TextBox1.Text, TextBox2.Text)
+            If con.Connected = True Then
+                'MessageBox.Show(con.Connected.ToString)
+                Me.Hide()
+                Dim frm As New FrmPrincipal
+                frm.Show()
+            End If
+        End If
+
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
